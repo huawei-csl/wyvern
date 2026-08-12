@@ -1,0 +1,12 @@
+{
+    "topic": "Techniques for optimizing hardware instruction prefetching in CPUs",
+    "topic_description": "Techniques for hardware instruction prefetching in CPUs, focusing on methods to increase accuracy and coverage, and strategies to reduce the number of redundant prefetches sent. Excludes hardware data prefetching.",
+    "given_urls": [
+        "https://research.ece.ncsu.edu/wp-content/uploads/sites/19/2020/05/D-JOLT.pdf",
+        "https://akolli.github.io/pubs/rdip-micro13.pdf",
+        "https://arxiv.org/pdf/2102.01764",
+        "https://liberty.cs.princeton.edu/Publications/asplos24_pdip.pdf",
+        "https://infoscience.epfl.ch/server/api/core/bitstreams/e736cf6c-3b93-43d6-9b1f-dd624bd06f30/content",
+        "https://digitum.um.es/digitum/bitstream/10201/136528/1/aros-tc24.pdf"
+    ]
+}

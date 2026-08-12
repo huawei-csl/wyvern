@@ -1,0 +1,9 @@
+{
+    "topic": "Limitations of TAGE branch predictors in CPUs and uncovered code patterns",
+    "topic_description": "Exploration of the limitations of TAGE (Tagged Geometric History Length) branch predictors in CPUs, focusing on identifying code patterns that TAGE fails to capture accurately and understanding the reasons behind these shortcomings, excluding any discussion on the fine-tuning of statistical correctors.",
+    "given_urls": [
+        "https://www.irisa.fr/caps/people/seznec/L-TAGE.pdf",
+        "https://jilp.org/vol9/v9paper6.pdf",
+        "https://pharm.ece.wisc.edu/papers/badgr_iccd16.pdf"
+    ]
+}

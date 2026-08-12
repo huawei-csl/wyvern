@@ -1,0 +1,7 @@
+{
+    "topic": "Techniques for Open-Set 3D Semantic Segmentation Using Vision-Language Models",
+    "topic_description": "The topic focuses on exploring techniques for open-set 3D semantic segmentation, particularly examining methods for reconstructing scene representations and leveraging vision-language models to achieve semantic segmentation in an open-set context.",
+    "given_urls": [
+        "https://arxiv.org/pdf/2409.18431"
+    ]
+}

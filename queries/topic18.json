@@ -1,0 +1,8 @@
+{
+    "topic": "Post-Silicon Power Measurement Techniques for SoCs: Challenges, Tools, and Trends",
+    "topic_description": "The topic focuses on post-silicon power measurement techniques for System-on-Chips (SoCs), particularly AI-focused SoCs, but also including CPU, GPU, and accelerator cards from vendors like NVIDIA, AMD, ARM, Intel, RISC-V, Ascend, and Kunpeng. It explores methods for researchers to verify power savings from workload refactoring, including the use of power measurement devices via interfaces like PCIe, built-in power logging tools such as NVML, and other emerging approaches. The discussion includes challenges, state-of-the-art solutions, and industry and academic trends, while excluding APIs and analytics aggregators like IPMI and NVTOP.",
+    "given_urls": [
+        "https://arxiv.org/pdf/2504.17883",
+        "https://arxiv.org/pdf/2412.12426"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "topic": "Foundations and Key Methods of Geometric Deep Learning in Non-Euclidean Domains",
+    "topic_description": "The topic focuses on the generalization of deep learning to non-Euclidean domains, including graphs, manifolds, groups, and point clouds. It explores the development of graph neural networks (GNNs), covering both spectral and spatial methods, and emphasizes the role of equivariance and symmetry in geometric architectures. The evolution from foundational graph methods to unified geometric frameworks is examined, along with the distinctions between transductive and inductive graph learning. The topic excludes detailed implementations of specific real-world applications and the use of GNNs in time-series or NLP tasks unless directly related to geometric reasoning.",
+    "given_urls": [
+        "https://arxiv.org/pdf/1611.08097",
+        "https://arxiv.org/pdf/1609.02907",
+        "https://arxiv.org/pdf/1606.09375",
+        "https://arxiv.org/pdf/1706.02216",
+        "https://arxiv.org/pdf/2104.13478"
+    ]
+}

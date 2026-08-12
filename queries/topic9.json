@@ -1,0 +1,5 @@
+{
+    "topic": "Exploring In-Storage Processing: Applications, Benefits for SSDs, and Machine Learning Acceleration",
+    "topic_description": "In-Storage Processing refers to the execution of computational tasks directly within storage devices, such as SSDs, to reduce data movement and improve performance. This report explores its applications, the expected benefits for both commodity and high-end SSDs, and its potential to accelerate machine learning workflows.",
+    "given_urls": []
+}

@@ -1,0 +1,10 @@
+{
+    "topic": "Parameter-free speculative decoding methods in inference systems and their comparative analysis.",
+    "topic_description": "Parameter-free speculative decoding methods that do not rely on trainable parameters, such as draft models or attention heads, for generating draft tokens, their implementation in real inference systems, and their comparative analysis.",
+    "given_urls": [
+        "https://arxiv.org/pdf/2311.08252",
+        "https://arxiv.org/pdf/2312.12728",
+        "https://arxiv.org/pdf/2408.08696",
+        "https://arxiv.org/pdf/2411.10666"
+    ]
+}

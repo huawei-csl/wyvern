@@ -1,0 +1,5 @@
+{
+    "topic": "Lock-free implementations of parallel multi-producer multi-consumer approximate priority queues",
+    "topic_description": "The topic focuses on the design and implementation of parallel multi-producer multi-consumer approximate priority queues, with a specific emphasis on lock-free algorithms to ensure efficient and scalable concurrent access.",
+    "given_urls": []
+}

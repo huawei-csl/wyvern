@@ -1,0 +1,10 @@
+{
+    "topic": "Performance and techniques of distributed vector databases in insertion/update/delete-heavy workloads",
+    "topic_description": "The topic focuses on distributed vector databases, specifically their performance and techniques in handling insertion, update, and delete-heavy workloads. It explores existing research and commercial systems, evaluates workloads for dynamic datasets, identifies use cases requiring such workloads, and examines solutions for maintaining data distribution and balance in these systems.",
+    "given_urls": [
+        "https://www.arxiv.org/pdf/2506.14707",
+        "https://arxiv.org/pdf/1906.10602",
+        "https://milvus.io/docs",
+        "https://arxiv.org/pdf/2105.09613"
+    ]
+}

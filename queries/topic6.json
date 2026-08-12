@@ -1,0 +1,8 @@
+{
+    "topic": "Computational Complexity and Efficiency of Eigenvalue Problem Algorithms",
+    "topic_description": "The study of the computational complexity of eigenvalue problems, focusing on the number of arithmetic operations required, the establishment of upper and lower bounds, the exploration of efficient quantum algorithms, and the assessment of numerical stability of the algorithms.",
+    "given_urls": [
+        "https://arxiv.org/pdf/1912.08805",
+        "https://en.wikipedia.org/wiki/Quantum_phase_estimation_algorithm"
+    ]
+}

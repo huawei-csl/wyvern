@@ -1,0 +1,9 @@
+{
+    "topic": "State-of-the-Art Techniques in Neural Network Pruning for Vision Models, LLMs, and Audio Models",
+    "topic_description": "The topic focuses on neural network pruning techniques, with an emphasis on the state-of-the-art methods for pruning vision models, compressing large language models (LLMs), and compressing audio models. It explores various approaches to reduce the size and complexity of neural networks while maintaining or improving performance.",
+    "given_urls": [
+        "https://arxiv.org/pdf/2301.00774",
+        "https://arxiv.org/pdf/2504.01690",
+        "https://arxiv.org/pdf/2407.04616"
+    ]
+}

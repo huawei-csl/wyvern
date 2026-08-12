@@ -1,0 +1,8 @@
+{
+    "topic": "Brain-inspired memory mechanisms for enhancing large language models through knowledge consolidation and multi-timescale memory retention.",
+    "topic_description": "Exploring brain-inspired memory mechanisms, including common knowledge and knowledge consolidation, semantic memory, episodic memory, and procedural memory, as well as neural and synaptic structures that retain memories on multiple timescales, to enhance the capabilities of large language models (LLMs). Excludes focus on KV cache efficiency in LLMs.",
+    "given_urls": [
+        "https://www.gatsby.ucl.ac.uk/~pel/tnlectures/papers/benna_fusi.pdf",
+        "https://arxiv.org/pdf/2405.14831"
+    ]
+}

@@ -1,0 +1,8 @@
+{
+    "topic": "Techniques and Challenges in Cycle-Accurate Architectural Simulation for Multithreaded Workloads on Multicore SoCs",
+    "topic_description": "The topic focuses on the techniques and challenges associated with cycle-accurate architectural simulation of multicore System-on-Chip (SoC) designs, particularly in the context of multithreaded workloads. It explores whether conventional assumptions of cycle-accurate simulation remain valid under heavily multithreaded conditions, with an emphasis on methods such as sampling. Functional simulation is excluded from the scope of this discussion.",
+    "given_urls": [
+        "https://www.comp.nus.edu.sg/~tcarlson/pdfs/carlson2011etloafsaapms.pdf",
+        "https://dl.acm.org/doi/pdf/10.1145/3680548"
+    ]
+}

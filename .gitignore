@@ -1,0 +1,21 @@
+# Secrets / local config
+secret.toml
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+
+# Playwright / browser cache
+playwright-report/
+
+# Generated outputs
+tmp*/
+experiments/

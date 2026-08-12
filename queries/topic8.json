@@ -1,0 +1,5 @@
+{
+    "topic": "End-to-End Deep Learning for Visual Perception in Autonomous Driving: Architectures, Challenges, and Real-Time Implementation",
+    "topic_description": "The topic focuses on the application of end-to-end deep learning for visual perception in autonomous driving, including the exploration of deep learning architectures for visual understanding, the comparison between end-to-end and modular systems, the significance of key datasets in training and evaluation, challenges in model generalization in complex environments, safety concerns, data bias, robustness to adversarial conditions, and real-time implementation with computational constraints.",
+    "given_urls": []
+}

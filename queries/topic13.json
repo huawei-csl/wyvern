@@ -1,0 +1,11 @@
+{
+    "topic": "Image Self-Supervised Learning Techniques: Origins, Methods, Pretext Tasks, and Application Recommendations",
+    "topic_description": "The topic focuses on image self-supervised learning techniques, exploring their origins, an overview of various methods, the working principles of different pretext tasks, how specific techniques align with different downstream tasks, and recommendations for selecting appropriate techniques based on use cases.",
+    "given_urls": [
+        "https://arxiv.org/pdf/2106.08254",
+        "https://arxiv.org/pdf/2111.06377",
+        "https://arxiv.org/pdf/2104.14294",
+        "https://arxiv.org/pdf/2103.00020",
+        "https://arxiv.org/pdf/1911.05722"
+    ]
+}

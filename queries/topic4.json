@@ -1,0 +1,8 @@
+{
+    "topic": "Automatic multi-threaded parallelization for thread-safe code using OpenMP directives",
+    "topic_description": "The topic focuses on the automatic multi-threaded parallelization of code, specifically addressing the conversion of code containing global and static variables into thread-safe implementations. It explores methods for automatically detecting critical sections and protecting them using mutual exclusion mechanisms, with an emphasis on achieving this exclusively through OpenMP directives. The topic excludes considerations related to automatic vectorization.",
+    "given_urls": [
+        "https://www.intel.com/content/www/us/en/docs/fortran-compiler/developer-guide-reference/2023-1/automatic-parallelization.html",
+        "https://gcc.gnu.org/wiki/AutoParInGCC"
+    ]
+}

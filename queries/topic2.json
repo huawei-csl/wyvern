@@ -1,0 +1,7 @@
+{
+    "topic": "AI/ML-Based Optimization of Multipliers or Arithmetic Units via Design Generation and Synthesis Enhancement",
+    "topic_description": "The topic focuses on the optimization of multipliers or arithmetic units using AI/ML techniques through design generation. It explores how the authors represented the design for input to a neural network, whether the generation was performed directly at the RTL level or via a proxy/template, if the process was iterative involving repeated training and design generation, and any efforts made to improve the synthesis aspect.",
+    "given_urls": [
+        "https://arxiv.org/pdf/2503.23945"
+    ]
+}
